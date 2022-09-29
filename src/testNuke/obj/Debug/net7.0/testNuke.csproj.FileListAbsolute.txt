@@ -1,0 +1,24 @@
+D:\testNuke\src\testNuke\bin\Debug\net7.0\testNuke.deps.json
+D:\testNuke\src\testNuke\bin\Debug\net7.0\testNuke.dll
+D:\testNuke\src\testNuke\bin\Debug\net7.0\testNuke.pdb
+D:\testNuke\src\testNuke\obj\Debug\net7.0\testNuke.csproj.AssemblyReference.cache
+D:\testNuke\src\testNuke\obj\Debug\net7.0\testNuke.GeneratedMSBuildEditorConfig.editorconfig
+D:\testNuke\src\testNuke\obj\Debug\net7.0\testNuke.AssemblyInfoInputs.cache
+D:\testNuke\src\testNuke\obj\Debug\net7.0\testNuke.AssemblyInfo.cs
+D:\testNuke\src\testNuke\obj\Debug\net7.0\testNuke.csproj.CoreCompileInputs.cache
+D:\testNuke\src\testNuke\obj\Debug\net7.0\testNuke.dll
+D:\testNuke\src\testNuke\obj\Debug\net7.0\refint\testNuke.dll
+D:\testNuke\src\testNuke\obj\Debug\net7.0\testNuke.pdb
+D:\testNuke\src\testNuke\obj\Debug\net7.0\ref\testNuke.dll
+D:\testNuke - Copy - Copy\src\testNuke\bin\Debug\net7.0\testNuke.deps.json
+D:\testNuke - Copy - Copy\src\testNuke\bin\Debug\net7.0\testNuke.dll
+D:\testNuke - Copy - Copy\src\testNuke\bin\Debug\net7.0\testNuke.pdb
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\testNuke.csproj.AssemblyReference.cache
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\testNuke.GeneratedMSBuildEditorConfig.editorconfig
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\testNuke.AssemblyInfoInputs.cache
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\testNuke.AssemblyInfo.cs
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\testNuke.csproj.CoreCompileInputs.cache
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\testNuke.dll
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\refint\testNuke.dll
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\testNuke.pdb
+D:\testNuke - Copy - Copy\src\testNuke\obj\Debug\net7.0\ref\testNuke.dll

@@ -1,0 +1,198 @@
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\testhost.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\testhost.exe
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.deps.json
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.runtimeconfig.json
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.pdb
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\testNuke\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.csproj.AssemblyReference.cache
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.AssemblyInfoInputs.cache
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.AssemblyInfo.cs
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.csproj.CoreCompileInputs.cache
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.csproj.CopyComplete
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.dll
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\refint\testNuke.Tests.dll
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.pdb
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.genruntimeconfig.cache
+D:\testNuke\src\testNuke.Tests\obj\Debug\net6.0\ref\testNuke.Tests.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testhost.exe
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testhost.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.deps.json
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.runtimeconfig.json
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.pdb
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.csproj.AssemblyReference.cache
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.AssemblyInfoInputs.cache
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.AssemblyInfo.cs
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.csproj.CoreCompileInputs.cache
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.csproj.CopyComplete
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\refint\testNuke.Tests.dll
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.pdb
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\testNuke.Tests.genruntimeconfig.cache
+D:\testNuke - Copy - Copy\src\testNuke.Tests\obj\Debug\net6.0\ref\testNuke.Tests.dll

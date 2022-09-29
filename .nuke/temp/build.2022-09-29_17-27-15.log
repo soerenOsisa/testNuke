@@ -1,0 +1,53 @@
+V |                      | ArgumentsFromParametersFile.OnBuildCreated (150)
+V |                      | InjectParameterValues.OnBuildCreated (100)
+V |                      | HandleShellCompletion.OnBuildCreated (75)
+V |                      | GenerateBuildServerConfigurations.OnBuildCreated (50)
+V |                      | InvokeBuildServerConfigurationGeneration.OnBuildCreated (45)
+V |                      | UpdateNotification.OnBuildCreated (10)
+V |                      | UnsetVisualStudioEnvironmentVariables.OnBuildCreated (0)
+V |                      | HandleVisualStudioDebugging.OnBuildCreated (0)
+V |                      | HandleSingleFileExecution.OnBuildCreated (-50)
+V |                      | EventInvoker.OnBuildCreated (-3.4028235E+38)
+V |                      | HandleHelpRequests.OnBuildInitialized (5)
+V |                      | Telemetry.OnBuildInitialized (0)
+V |                      | InjectNonParameterValues.OnBuildInitialized (-100)
+V |                      | EventInvoker.OnBuildInitialized (-3.4028235E+38)
+V | Restore              | EventInvoker.OnTargetRunning (-3.4028235E+38)
+V | Restore              | Telemetry.OnTargetSucceeded (0)
+V | Restore              | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+V | Compile              | EventInvoker.OnTargetRunning (-3.4028235E+38)
+I | Compile              | > "C:\Program Files\dotnet\dotnet.exe" build "D:\testNuke - Copy - Copy\src\testNuke.sln"
+D | Compile              | MSBuild version 17.4.0-preview-22368-02+c8492483a for .NET
+D | Compile              |   Determining projects to restore...
+D | Compile              |   All projects are up-to-date for restore.
+D | Compile              | C:\Program Files\dotnet\sdk\7.0.100-preview.7.22377.5\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\testNuke - Copy - Copy\src\testNuke.Tests\testNuke.Tests.csproj]
+D | Compile              |   testNuke.Tests -> D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll
+D | Compile              | C:\Program Files\dotnet\sdk\7.0.100-preview.7.22377.5\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\testNuke - Copy - Copy\src\testNuke\testNuke.csproj]
+D | Compile              |   testNuke -> D:\testNuke - Copy - Copy\src\testNuke\bin\Debug\net7.0\testNuke.dll
+D | Compile              | 
+D | Compile              | Build succeeded.
+D | Compile              |     0 Warning(s)
+D | Compile              |     0 Error(s)
+D | Compile              | 
+D | Compile              | Time Elapsed 00:00:00.66
+V | Compile              | Telemetry.OnTargetSucceeded (0)
+V | Compile              | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+V | Test                 | EventInvoker.OnTargetRunning (-3.4028235E+38)
+I | Test                 | > "C:\Program Files\dotnet\dotnet.exe" test "D:\testNuke - Copy - Copy\src\testNuke.sln"
+D | Test                 |   Determining projects to restore...
+D | Test                 |   All projects are up-to-date for restore.
+D | Test                 | C:\Program Files\dotnet\sdk\7.0.100-preview.7.22377.5\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\testNuke - Copy - Copy\src\testNuke.Tests\testNuke.Tests.csproj]
+D | Test                 |   testNuke.Tests -> D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll
+D | Test                 | Test run for D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll (.NETCoreApp,Version=v6.0)
+D | Test                 | Microsoft (R) Test Execution Command Line Tool Version 17.4.0-preview-20220711-01 (x64)
+D | Test                 | Copyright (c) Microsoft Corporation.  All rights reserved.
+D | Test                 | 
+D | Test                 | Starting test execution, please wait...
+D | Test                 | A total of 1 test files matched the specified pattern.
+D | Test                 | 
+D | Test                 | Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 11 ms - testNuke.Tests.dll (net6.0)
+V | Test                 | Telemetry.OnTargetSucceeded (0)
+V | Test                 | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+V |                      | UpdateNotification.OnBuildFinished (10)
+V |                      | SerializeBuildServerState.OnBuildFinished (0)
+V |                      | EventInvoker.OnBuildFinished (-3.4028235E+38)

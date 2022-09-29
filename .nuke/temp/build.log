@@ -1,0 +1,53 @@
+17:27:15.981 | V |                      | ArgumentsFromParametersFile.OnBuildCreated (150)
+17:27:15.995 | V |                      | InjectParameterValues.OnBuildCreated (100)
+17:27:16.021 | V |                      | HandleShellCompletion.OnBuildCreated (75)
+17:27:16.023 | V |                      | GenerateBuildServerConfigurations.OnBuildCreated (50)
+17:27:16.023 | V |                      | InvokeBuildServerConfigurationGeneration.OnBuildCreated (45)
+17:27:16.032 | V |                      | UpdateNotification.OnBuildCreated (10)
+17:27:16.032 | V |                      | UnsetVisualStudioEnvironmentVariables.OnBuildCreated (0)
+17:27:16.032 | V |                      | HandleVisualStudioDebugging.OnBuildCreated (0)
+17:27:16.034 | V |                      | HandleSingleFileExecution.OnBuildCreated (-50)
+17:27:16.034 | V |                      | EventInvoker.OnBuildCreated (-3.4028235E+38)
+17:27:16.050 | V |                      | HandleHelpRequests.OnBuildInitialized (5)
+17:27:16.050 | V |                      | Telemetry.OnBuildInitialized (0)
+17:27:16.051 | V |                      | InjectNonParameterValues.OnBuildInitialized (-100)
+17:27:16.051 | V |                      | EventInvoker.OnBuildInitialized (-3.4028235E+38)
+17:27:16.060 | V | Restore              | EventInvoker.OnTargetRunning (-3.4028235E+38)
+17:27:16.061 | V | Restore              | Telemetry.OnTargetSucceeded (0)
+17:27:16.061 | V | Restore              | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+17:27:16.064 | V | Compile              | EventInvoker.OnTargetRunning (-3.4028235E+38)
+17:27:16.126 | I | Compile              | > "C:\Program Files\dotnet\dotnet.exe" build "D:\testNuke - Copy - Copy\src\testNuke.sln"
+17:27:16.235 | D | Compile              | MSBuild version 17.4.0-preview-22368-02+c8492483a for .NET
+17:27:16.526 | D | Compile              |   Determining projects to restore...
+17:27:16.700 | D | Compile              |   All projects are up-to-date for restore.
+17:27:16.726 | D | Compile              | C:\Program Files\dotnet\sdk\7.0.100-preview.7.22377.5\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\testNuke - Copy - Copy\src\testNuke.Tests\testNuke.Tests.csproj]
+17:27:16.788 | D | Compile              |   testNuke.Tests -> D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll
+17:27:16.801 | D | Compile              | C:\Program Files\dotnet\sdk\7.0.100-preview.7.22377.5\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\testNuke - Copy - Copy\src\testNuke\testNuke.csproj]
+17:27:16.941 | D | Compile              |   testNuke -> D:\testNuke - Copy - Copy\src\testNuke\bin\Debug\net7.0\testNuke.dll
+17:27:16.946 | D | Compile              | 
+17:27:16.947 | D | Compile              | Build succeeded.
+17:27:16.948 | D | Compile              |     0 Warning(s)
+17:27:16.948 | D | Compile              |     0 Error(s)
+17:27:16.949 | D | Compile              | 
+17:27:16.949 | D | Compile              | Time Elapsed 00:00:00.66
+17:27:16.978 | V | Compile              | Telemetry.OnTargetSucceeded (0)
+17:27:16.978 | V | Compile              | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+17:27:16.981 | V | Test                 | EventInvoker.OnTargetRunning (-3.4028235E+38)
+17:27:17.028 | I | Test                 | > "C:\Program Files\dotnet\dotnet.exe" test "D:\testNuke - Copy - Copy\src\testNuke.sln"
+17:27:17.669 | D | Test                 |   Determining projects to restore...
+17:27:17.881 | D | Test                 |   All projects are up-to-date for restore.
+17:27:17.923 | D | Test                 | C:\Program Files\dotnet\sdk\7.0.100-preview.7.22377.5\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(219,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy [D:\testNuke - Copy - Copy\src\testNuke.Tests\testNuke.Tests.csproj]
+17:27:18.105 | D | Test                 |   testNuke.Tests -> D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll
+17:27:18.120 | D | Test                 | Test run for D:\testNuke - Copy - Copy\src\testNuke.Tests\bin\Debug\net6.0\testNuke.Tests.dll (.NETCoreApp,Version=v6.0)
+17:27:18.173 | D | Test                 | Microsoft (R) Test Execution Command Line Tool Version 17.4.0-preview-20220711-01 (x64)
+17:27:18.174 | D | Test                 | Copyright (c) Microsoft Corporation.  All rights reserved.
+17:27:18.176 | D | Test                 | 
+17:27:18.249 | D | Test                 | Starting test execution, please wait...
+17:27:18.267 | D | Test                 | A total of 1 test files matched the specified pattern.
+17:27:18.722 | D | Test                 | 
+17:27:18.726 | D | Test                 | Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 11 ms - testNuke.Tests.dll (net6.0)
+17:27:18.804 | V | Test                 | Telemetry.OnTargetSucceeded (0)
+17:27:18.804 | V | Test                 | EventInvoker.OnTargetSucceeded (-3.4028235E+38)
+17:27:18.813 | V |                      | UpdateNotification.OnBuildFinished (10)
+17:27:18.813 | V |                      | SerializeBuildServerState.OnBuildFinished (0)
+17:27:18.813 | V |                      | EventInvoker.OnBuildFinished (-3.4028235E+38)
